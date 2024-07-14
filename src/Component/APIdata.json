@@ -1,0 +1,74 @@
+{
+    "menu" : [
+        {
+           "id": 1,
+           "name": "Chole Bhature",
+           "image": "https://curlytales.com/wp-content/uploads/2019/10/images-5-e1569942120173.jpg",
+           "price": 180,
+           "label": "Whole Wheat Bhature with tasty chole"
+            
+        },
+        {
+           "id": 2,
+           "name": "Gol Gappe",
+           "image": "https://qph.cf2.quoracdn.net/main-qimg-8aab7850e17b640436cbbbaf1114f591",
+           "price": 100,
+           "label": "Spicy, teekha, khatha, meetha swaad"
+           
+        },
+        {
+           "id": 3,
+           "name": "Pan Cakes",
+           "image": "https://www.zerowastescotland.org.uk/sites/default/files/2023-04/iStock-947088416.jpg",
+           "price": 250,
+           "label": "Delightful sweetened flavour pancake"
+           
+        },
+        {
+           "id": 4,
+           "name": "Fruits",
+           "image": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/26/1600x900/hd-aspect-1498854508-delish-mimosa-fruit-salad-3.jpg?resize=1200:*",
+           "price": 150,
+           "label": "Fresh mouth watering fruit chat"
+           
+        },
+        {
+           "id": 5,
+           "name": "Roll",
+           "image": "https://i.pinimg.com/736x/64/83/69/648369860a958e805fdbc63f87b284a3.jpg",
+           "price": 250,
+           "label": "Spicy cheese stuffing with Tangy flavours"
+           
+        },
+        {
+           "id": 6,
+           "name": "Pizza",
+           "image": "https://www.thespruceeats.com/thmb/lmDJraajDXMJ9izsIfzNt79GrSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pizzasupremehoriz-1ccfa0b1732b4c128427d19ae02a422b.jpg",
+           "price": 350,
+           "label": "Pizza crust with fresh veggies & dough"
+           
+        },
+        {
+           "id": 7,
+           "name": "Biryani",
+           "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_400/dbltgo5okdpkl7opfxrz",
+           "price": 300,
+           "label": "Brown rice Veg/Non-Veg Biryani"
+           
+        },
+        {
+           "id": 8,
+           "name": "Burger",
+           "image": "https://choice.community/uploads/default/original/3X/1/d/1d09a7b73dd1b593132a9625a9cfb2541346d90d.jpeg",
+           "price": 100,
+           "label": "Multigrains flour healthy burger"
+        },
+        {
+           "id": 9,
+           "name": "Dosa",
+           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbL0cK--mYeznVu3C6bhfULu6VsRvSxxmMBBPpeJmPtzNVDfUnCNI96oSM9_WhoqPIiA&usqp=CAU",
+           "price": 180,
+           "label": "Wholegrains flour dosa with stuffing"           
+        }               
+     ]
+}

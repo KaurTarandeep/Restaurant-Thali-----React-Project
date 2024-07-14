@@ -1,0 +1,139 @@
+*{
+  margin: 0px;
+}
+
+/* Home Page */
+nav{
+  background-color: #0c102c;
+  color: white;
+  padding: 20px;
+  font-family: verdana;
+}
+nav label, nav .cartCheckout{
+  font-size: 30px;
+}
+nav .cartCheckout{
+  float: right;
+  color: white;
+  background-color: #1e2441 ;
+}
+nav a{
+  padding: 20px;
+  font-size: 20px;
+}
+
+.bgimg{
+  background-image: url("imgs/thaliBackground2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+/* place button at the center vertically /horizontally */
+  display: grid;
+  place-items: center; 
+}
+
+
+.bgimg button{
+  padding: 10px 40px;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 6px;
+}
+
+/* Thali Page */
+.item-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  word-wrap: break-word;
+  row-gap: 50px;
+  padding: 50px;
+  background-color: #e1e0e0;
+  font-family: sans-serif; 
+  border: 5px solid ghostwhite;
+}
+
+.item{
+  display: grid;
+  grid-template-columns: 1fr;
+  place-items: center;
+  row-gap: 8px;
+  border: 2px solid white;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #1a1f47;
+  color: white;
+}
+
+.item img{
+  height: 150px;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid white;
+}
+
+.btn-space{
+  margin: 0px 10px;
+}
+
+input[type='checkbox']{
+  margin-left: 10px;
+}
+
+/* Checkout page*/
+
+.checkout{
+  font-family: sans-serif;
+  background-image: url("imgs/b4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+  color: white;
+}
+
+header{
+  background-color: #0c102c;
+  padding: 20px;
+  color: rgb(255, 255, 255);
+}
+.checkout-container{
+  display: grid;
+  place-items: center;
+  padding: 50px;
+}
+.checkout h1{
+  color: rgb(255, 253, 253);
+  font-size: 40px;
+}
+table, th, td{
+  border: 5px solid #070707;
+}
+
+table th{
+  height: 50px;
+  font-size: larger;
+}
+table{
+  background-color: rgb(235, 234, 234);
+  color: black;
+  width: 80%;
+  border-collapse: collapse;
+  text-align: center;
+}
+table img{
+  height: 100px;
+  width: auto;
+}
+.checkout header p{
+  font-size: x-large;
+}
+.error{
+  color: Red;
+  font-size: large;
+  font-weight: 600;
+
+}
+
+
